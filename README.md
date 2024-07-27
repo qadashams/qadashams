@@ -16,48 +16,51 @@
 ### Bug-reports 
 
 ##### PC games:
-- [BattleOfTheWildWest]()
-- [Age Of Mystery]()
-- [Chop chop]()
+- [3d Snake](https://trello.com/b/be3sMgsN/3d-snake)
+- [Age Of Mystery](https://trello.com/b/8GiEjDlG/age-of-mystery)
+- [Electric Trains](https://trello.com/b/L1Vo6xdM/electric-trains)
 
 #### Mobile games: 
-- [Little Shooter]()
-- [World Race]()
-- [War Number]()
+- [Little Shooter](https://trello.com/b/CRTVrMPw/little-shooter)
+- [Gallery](https://trello.com/b/HhgRGwcJ/gallery)
+- [Pigeons attack](https://trello.com/b/YXpDayRc/pigeons-attack)
+- [Farming fever](https://trello.com/b/ycsNA7fh/farming-fever)
 
 #### Web-sites:
-- [Makes Scents]()
+- [Rainyroof](https://trello.com/b/t4uMhyfC/rainyroof)
+- [Reverent-agnesi](https://trello.com/b/i9W9jGSd/reverent-agnesi)
 
 ### Check-lists
 #### PC Games:
-- [War Thunder]()
-- [Beast Traversing]()
+- [Electric Trains](https://docs.google.com/spreadsheets/d/15iZ9MJT3I6edpQzELFuqE1WXgrFPj-KEaZZOU2GiyAQ/edit?usp=drive_link)
+- [3d Snake](https://docs.google.com/spreadsheets/d/1NpbdhnP5BiBtC8tUzDo4qYp3WqPMI7MUu7R-A6-spcY/edit?usp=sharing)
+
 
 #### Mobile games:
-- []()
-- []()
+
+- [WoW](https://docs.google.com/spreadsheets/d/12Ca_S-BjpsnHkG5SOZzxBov3-ri7fkOdqSCkvMyDtks/edit?usp=sharing)
+- [Sandbox](https://docs.google.com/spreadsheets/d/12Ca_S-BjpsnHkG5SOZzxBov3-ri7fkOdqSCkvMyDtks/edit?usp=sharing)
+- [Little shooter](https://docs.google.com/spreadsheets/d/18-sjjlTxOzAsSr6Bhk9jOa7rMk3pH1GbBuYdL27dy3E/edit?usp=sharing)
+- [Gallery](https://docs.google.com/spreadsheets/d/1hI2buZDR3zjK5rCObyun4ye8wmoGn2FvCvqnW6Z0FiM/edit?usp=sharing)
+- [Pigeons Attack](https://docs.google.com/spreadsheets/d/1qviaNxZ3jng15jLlagoBqvlCmzDsweJ0Ve3n6r8DtXM/edit?usp=sharing)
+- 
 
 #### Web-sites:
-
-
 
 
 ### Test cases 
+
 #### PC Games:
-- [War Thunder]()
-- [Beast Traversing]()
+- [Battle of the wild west](https://docs.google.com/spreadsheets/d/10_c3SoBqf0KPJ6OlRY_xD5Xhx70uMH2Neqm4nfLeGX8/edit?usp=drive_link)
+- [3d Snake](https://docs.google.com/spreadsheets/d/136ivqY2xo5oz-vdlvRGGIM13vFxLSHveLQAaxScz3vE/edit?usp=drive_link)
 
 #### Mobile games:
-- []()
-- []()
+- [Sandbox](https://docs.google.com/spreadsheets/d/1pwTspniI5JatRAGBmNenxltyjDbI-EZZMswuaqKNl10/edit?pli=1)
+- [Doodle Jump](https://docs.google.com/spreadsheets/d/1MhfTgoHOLwwrqymwGvbPY6HNcO1OPzzucMwwEVgJRC8/edit?usp=sharing)
+- [WoW](https://docs.google.com/spreadsheets/d/1FJ1ZcGdD-oYtfL9mlR7m4_AiYvqws2fLHPDKQYHzyYU/edit?usp=sharing)
 
 #### Web-sites:
-
-
-### Test strategy
-
-
-### Test-plans
+-
 
 
 #### Applications:
