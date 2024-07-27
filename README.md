@@ -17,7 +17,7 @@ P.S [resume](https://drive.google.com/file/d/1LbLlHrpqmBVr4i04VXY2x6tCtTGELMCy/v
 
 ### Bug-reports 
 
-##### PC games:
+#### PC games:
 - [3D Snake](https://trello.com/b/be3sMgsN/3d-snake)
 - [Age Of Mystery](https://trello.com/b/8GiEjDlG/age-of-mystery)
 - [Electric Trains](https://trello.com/b/L1Vo6xdM/electric-trains)
