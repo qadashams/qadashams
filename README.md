@@ -11,13 +11,14 @@
 У вільний час захоплююсь танцями, люблю фотографувати та 
 активно займаюся спортом
 
+P.S [resume](https://drive.google.com/file/d/1LbLlHrpqmBVr4i04VXY2x6tCtTGELMCy/view?usp=sharing)
 
 ## My Portfolio 
 
 ### Bug-reports 
 
 ##### PC games:
-- [3d Snake](https://trello.com/b/be3sMgsN/3d-snake)
+- 
 - [Age Of Mystery](https://trello.com/b/8GiEjDlG/age-of-mystery)
 - [Electric Trains](https://trello.com/b/L1Vo6xdM/electric-trains)
 
