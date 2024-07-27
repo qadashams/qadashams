@@ -18,7 +18,7 @@ P.S [resume](https://drive.google.com/file/d/1LbLlHrpqmBVr4i04VXY2x6tCtTGELMCy/v
 ### Bug-reports 
 
 ##### PC games:
-- 
+- [3D Snake](https://trello.com/b/be3sMgsN/3d-snake)
 - [Age Of Mystery](https://trello.com/b/8GiEjDlG/age-of-mystery)
 - [Electric Trains](https://trello.com/b/L1Vo6xdM/electric-trains)
 
@@ -45,7 +45,7 @@ P.S [resume](https://drive.google.com/file/d/1LbLlHrpqmBVr4i04VXY2x6tCtTGELMCy/v
 - [Little shooter](https://docs.google.com/spreadsheets/d/18-sjjlTxOzAsSr6Bhk9jOa7rMk3pH1GbBuYdL27dy3E/edit?usp=sharing)
 - [Gallery](https://docs.google.com/spreadsheets/d/1hI2buZDR3zjK5rCObyun4ye8wmoGn2FvCvqnW6Z0FiM/edit?usp=sharing)
 - [Pigeons Attack](https://docs.google.com/spreadsheets/d/1qviaNxZ3jng15jLlagoBqvlCmzDsweJ0Ve3n6r8DtXM/edit?usp=sharing)
-- 
+ 
 
 #### Web-sites:
 
@@ -62,12 +62,12 @@ P.S [resume](https://drive.google.com/file/d/1LbLlHrpqmBVr4i04VXY2x6tCtTGELMCy/v
 - [WoW](https://docs.google.com/spreadsheets/d/1FJ1ZcGdD-oYtfL9mlR7m4_AiYvqws2fLHPDKQYHzyYU/edit?usp=sharing)
 
 #### Web-sites:
--
+- in progress
 
 
 #### Applications:
-- [BattleOfTheWildWest]()
-- [Age Of Mystery]()
+- in progress
+  
 
 
 ## Languages and Tools
