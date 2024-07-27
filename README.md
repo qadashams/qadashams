@@ -9,7 +9,6 @@
 - 
 - 
 
-
 ## My Portfolio 
 
 ### Bug-reports 
@@ -38,7 +37,6 @@
 
 #### Web-sites:
 
-  
 
 
 
@@ -54,28 +52,15 @@
 #### Web-sites:
 
 
- 
 ### Test strategy
 
-### Test Design
 
 ### Test-plans
 
-### Perfomnance test doc
+
 #### Applications:
 - [BattleOfTheWildWest]()
 - [Age Of Mystery]()
-
-### Mind maps
-
-### API Testing Documentation
-
-### Some examples Portfolio I helped create:
-- [Dima Shlapak](https://github.com/DimaShlapak9)  
-- [Danylo Horbachov](https://github.com/GorDanil) 
-- [Karina Agadzhanian](https://github.com/Karina23456787) 
-- [Kirill Sharevich](https://github.com/Checamaro)
-- [Bohdan Holiachenko](https://github.com/BohdanHoliachenko)
 
 
 ## Languages and Tools
@@ -99,9 +84,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 
 
-
-
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/zhenislav)
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ]()
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ]()
 [ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]()
