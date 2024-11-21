@@ -1,5 +1,6 @@
 ## Dasha Misiuna
-![1720959716471 (1)](https://github.com/user-attachments/assets/1da1a332-2821-4a48-8209-a8425cf3f0d8)
+![1720959716471 (1)](![dasha misiuna](https://github.com/user-attachments/assets/33a47b71-17c3-4ede-a4e0-183e34596a7a)
+)
 
 
 ## About me
