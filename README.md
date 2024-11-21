@@ -1,5 +1,5 @@
 ## Dasha Misiuna
-![1720959716471 (1)](![dasha misiuna](https://github.com/user-attachments/assets/33a47b71-17c3-4ede-a4e0-183e34596a7a)
+(![dasha misiuna](https://github.com/user-attachments/assets/33a47b71-17c3-4ede-a4e0-183e34596a7a)
 )
 
 
