@@ -12,7 +12,7 @@
 В свободное время увлекаюсь танцами, люблю фотографировать и
 активно занимаюсь спортом.
 
-P.S [resume](https://drive.google.com/file/d/1AavVvS8hTs0FoWoUv4-QoIS3hErQ4D6-/view?usp=sharing)
+P.S [resume](https://drive.google.com/file/d/1E369X6SVoyEy-jAjKmrTavrPNDuv3ekL/view?usp=sharing)
 
 ## My Portfolio 
 
